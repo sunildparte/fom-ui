@@ -1,0 +1,41 @@
+/*------------------------------ CONTENTS ------------------------------*/
+#contents {
+	background: #fff url(../images/bg-content-bottom.png) no-repeat left bottom;
+	width: 100%;
+	margin-bottom: 30px;
+	padding: 23px 0 0;
+	-webkit-border-bottom-right-radius: 1px;
+	-webkit-border-bottom-left-radius: 1px;
+	-moz-border-radius-bottomright: 1px;
+	-moz-border-radius-bottomleft: 1px;
+	border-bottom-right-radius: 1px;
+	border-bottom-left-radius: 1px;
+}
+
+/** Services **/
+#contents #services {
+	width:100%;
+	min-height:800px;
+    height:auto !important;
+    height:800px; 
+}
+
+div.fort {
+	width:97%;
+	margin:0 0 10px 10px;
+	display: inline-block;
+}
+
+img.fortimage {
+	float: left;
+	margin: 0 10px 10px 0;
+	width: 290px;
+}
+
+.small_itallic {
+	font-size: 10px;
+	font-style:italic
+}
+
+
+
